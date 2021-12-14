@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Addy Rodriguez
+Linus Torvalds invented Git.
+Linus is also the main developer of Linux.
+Git was invented in 2005.
+Git push is when you are pushing information locally to a remote repository (location).
+The purpose of .gitignore file is to tell git to ignore the file and not include it.
+Fork is when you move code into your personal github account. You are copying something without much effort. A fork is good to have because it is convenient.
+Clone is when you have your own copy of the code on your local machine. You can have many clones.
+You should not put a Github repository inside of another Github repository.
+True
